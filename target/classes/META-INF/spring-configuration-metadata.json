@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.lmgroup.salestaxes.YAMLConfig",
+      "sourceType": "com.lmgroup.salestaxes.YAMLConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "test",
+      "type": "com.lmgroup.salestaxes.beans.Test",
+      "description": "The test of YAML config",
+      "sourceType": "com.lmgroup.salestaxes.YAMLConfig"
+    }
+  ],
+  "hints": []
+}
